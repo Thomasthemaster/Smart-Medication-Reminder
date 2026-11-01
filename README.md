@@ -28,6 +28,10 @@ List the hardware tools and software IDEs needed to get started:
 
 ---
 
+## 👥 Contributions & Project Roles
+* **Thomas Hung** — To Be Determined
+* **Jaeden Tan** — To Be Determined
+
 ## ⚖️ License & Intellectual Property
 
 This project is multi-licensed to support open science fair judging while protecting future commercial rights:
