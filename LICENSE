@@ -1,5 +1,13 @@
 Smart Medication Reminder - License Agreement
+
+Copyright (c) 2026 Thomas Hung and Jaeden Tan
+
 This repository is multi-licensed to protect different aspects of the project:
 • Software and Source Code: All files in the /software directory are licensed under the Apache License 2.0. See /software/LICENSE.code for the full text.
 • Hardware and Schematics: All wiring diagrams, CAD files, and schematics in the /hardware directory are licensed under the CERN Open Hardware License Strongly Reciprocal (CERN-OHL-S) v2. See /hardware/LICENSE.hardware for the full text.
 • Documentation and Media: All text, images, and user guides in the /docs directory and the root README.md are licensed under the Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0) license.
+
+---
+
+DISCLAIMER OF LIABILITY
+All materials in this repository are provided "as is" without warranty of any kind. In no event shall the authors or copyright holders be liable for any medical issues, missed medication doses, damages, or other liability arising from the use, wiring, or software of this project. Use at your own risk.
